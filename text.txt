@@ -3,3 +3,5 @@ zmena cez github
 znova zmena zaroven cez smartgit aj github
 znova zmena cez smartgit
 novy branch
+
+zmena cez branch 2
