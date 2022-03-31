@@ -4,3 +4,6 @@ znova zmena zaroven cez smartgit aj github
 znova zmena cez smartgit
 
 zmena cez main
+novy branch
+
+zmena cez branch 2
