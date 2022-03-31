@@ -7,3 +7,5 @@ zmena cez main
 novy branch
 
 zmena cez branch 2
+zmena cez main znova
+branch zmena :D
